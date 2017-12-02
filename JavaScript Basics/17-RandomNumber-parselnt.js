@@ -7,7 +7,6 @@ function randomRange(min, max) {
 
 console.log(randomRange(1, 9));
 
-
 parseInt('007'); // 7
 parseInt('t005'); // NaN
 parseInt('11', 2); // 3
